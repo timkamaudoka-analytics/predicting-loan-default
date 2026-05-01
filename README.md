@@ -42,6 +42,9 @@ Excel | Power BI | Statistical Testing
 
 ## 📊 Dashboard Screenshots
 
+### Page 0 – About This Dashboard
+![About](assets/dashboard_page0_about.png)
+
 ### Page 1 – Risk Overview
 ![Risk Overview](assets/dashboard_page1.png)
 
