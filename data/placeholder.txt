@@ -1,1 +1,0 @@
-This folder contains a 500-row sample of the dataset.
