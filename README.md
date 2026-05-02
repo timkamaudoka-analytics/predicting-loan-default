@@ -86,5 +86,6 @@ Download the `.pbix` file from the `/dashboard` folder and open using Power BI D
 
 ## 📬 Contact
 
-Timkama Udoka  
+Timkama Udoka
+email: timkamaudoka@gmail.com
 LinkedIn: (https://www.linkedin.com/in/timkama-udoka)
